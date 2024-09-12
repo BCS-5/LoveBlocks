@@ -2,7 +2,11 @@
 
 ### 블록체인 기반 마이크로 기부 플랫폼
 
----
+
+![image](https://github.com/user-attachments/assets/23d0f778-d5a5-4e51-80f9-d895c383e270)
+![image](https://github.com/user-attachments/assets/23358c87-a611-47de-bf2d-2ca21da0d78c)
+
+
 
 ### 개발 환경
 
